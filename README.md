@@ -8,3 +8,5 @@ Tried 2-3 promts works great
 
 # Update
 More level can be config at `constants.ts`
+
+Game base is developed by gemini
